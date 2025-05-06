@@ -30,3 +30,7 @@ The goal of this project is to build a mock portfolio website that demonstrates:
 ## Acknowledgments
 
 This project is part of [The Odin Project](https://www.theodinproject.com/), an open-source curriculum for learning web development.
+
+## Demo
+
+Check out the live demo of the project [here](https://ktotopawel.github.io/mock-portfolio/).
